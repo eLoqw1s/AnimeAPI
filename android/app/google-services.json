@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090412301026",
+    "project_id": "androiddevanime",
+    "storage_bucket": "androiddevanime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090412301026:android:e5408a3382b633b56dacbb",
+        "android_client_info": {
+          "package_name": "com.example.android_dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8nPdVkqdJAqFMkwguaZqbMPNybfc4sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
